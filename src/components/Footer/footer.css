@@ -1,0 +1,14 @@
+.footermain{
+    flex: 4;
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    
+}
+
+
+
+.FooterWrapper{
+    text-align: center;
+    padding: 20px;
+}
